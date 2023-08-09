@@ -15,8 +15,7 @@ export function Footer() {
       </a>
       <div>
         <p>
-          Este site foi feito com <img src={reactIcon} alt="React" /> e muito
-          <span>❤️</span>
+          © 2023 Codewunder<img src={reactIcon} alt="React" />          
         </p>
       </div>
 
