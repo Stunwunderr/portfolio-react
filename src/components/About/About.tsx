@@ -24,12 +24,13 @@ export function About(){
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000} style={{marginTop: "2rem", marginBottom: "2rem"}}>
 
-          <p>In the grand symphony of web development, I command an orchestra of languages that harmonize to create captivating web pages.</p>
-        </ScrollAnimation>
+          <p>When not chasing down pesky bugs, I'm probably having an intense debate with my rubber duck debug partner, all while adding some gaming fun and singing to the mix. Ready to join the HTML-arious adventure? Let's code, play, and conquer the virtual universe together! </p>
+         
+          </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.6 * 1000}>
-
-          <p>Sou uma pessoa dedicada que corre atrás para realizar seus sonhos, trabalhador e orientado a resultados, sempre busco alcançar minha melhor versão.</p>
-        </ScrollAnimation>
+          <p>In the grand symphony of web development, I command an orchestra of languages that harmonize to create captivating web pages.</p>
+        
+           </ScrollAnimation>
 
         <ScrollAnimation animateIn="fadeInLeft" delay={0.7 * 1000}>
           <h3>Aqui estão as minhas principais habilidades:</h3>
