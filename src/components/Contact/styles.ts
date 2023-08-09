@@ -10,8 +10,7 @@ export const Container = styled.section`
       text-align: center;
       font-size: 4rem;
     }
-    p{
-      color: var(--green);
+    p{    
       font-weight: 500;
     }
   }
