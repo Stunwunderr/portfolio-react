@@ -35,7 +35,6 @@ export const Container = styled.section`
       transition: background-color 0.25s;
       img{
         width: 4rem;
-        color: var(--green);
       }
       a{
         color: white;
