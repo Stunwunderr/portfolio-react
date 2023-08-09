@@ -1,12 +1,12 @@
 import { Container } from "./styles";
 
-import cssIcon from "../../assets/css-icon.svg";
-import htmlIcon from "../../assets/html-icon.svg";
-import jsIcon from "../../assets/js-icon.svg";
-import nodeIcon from "../../assets/node-icon.svg";
-import reactIcon from "../../assets/react-icon.svg";
+import cssIcon from "../../assets/css.png";
+import htmlIcon from "../../assets/html.png";
+import jsIcon from "../../assets/js.png";
+import nodeIcon from "../../assets/nodejs.png";
+import reactIcon from "../../assets/reactjs.png";
 import typescriptIcon from "../../assets/typescript-icon.svg";
-import vueIcon from "../../assets/vue-icon.svg";
+import vueIcon from "../../assets/vue.png";
 import ScrollAnimation from "react-animate-on-scroll";
 
 
