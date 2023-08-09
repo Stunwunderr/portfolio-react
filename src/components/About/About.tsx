@@ -5,7 +5,7 @@ import htmlIcon from "../../assets/html.png";
 import jsIcon from "../../assets/javascript.png";
 import nodeIcon from "../../assets/nodejs.png";
 import reactIcon from "../../assets/reactjs.png";
-import typescriptIcon from "../../assets/typescript-icon.svg";
+import tailwindIcon from "../../assets/tailwind.pnh";
 import vueIcon from "../../assets/vue.png";
 import ScrollAnimation from "react-animate-on-scroll";
 
@@ -74,7 +74,7 @@ export function About(){
 
           <div className="hability">
           <ScrollAnimation animateIn="fadeInUp" delay={0.7 * 1000}>
-            <img src={typescriptIcon} alt="Typescript" />
+            <img src={tailwindIcon} alt="Tailwind" />
           </ScrollAnimation>
           </div>
 
