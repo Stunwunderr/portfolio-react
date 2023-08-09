@@ -23,9 +23,10 @@ export const Container = styled.header`
     gap: 1.8rem;
     a{
       color: #FFFF;
-      padding: 0.6rem;
+      padding: 1rem;
       font-family: 'Red Hat Display', sans-serif;
       font-weight: 500;
+      font-size: 5rem;
       text-transform: uppercase;
       transition: filter 0.25s;
 
@@ -169,7 +170,7 @@ export const Container = styled.header`
       top: 0;
       left: 0;
       transition: opacity 0.25s;
-      background-color: #21212150;
+      background-color: black;
 
       a.button{
         background-color: var(--green);
