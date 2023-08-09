@@ -13,7 +13,7 @@ import mysqlIcon from "../../assets/mysql-icon.svg";
 import nodeIcon from "../../assets/nodejs.png";
 import reactIcon from "../../assets/reactjs.png";
 import sassIcon from "../../assets/sass-icon.svg";
-import typescriptIcon from "../../assets/typescript-icon.svg";
+import tailwindIcon from "../../assets/tailwind.png";
 import vscodeIcon from "../../assets/vscode-icon.svg";
 import vueIcon from "../../assets/vue.png";
 
