@@ -8,7 +8,7 @@ import { Portfolio } from "../Portfolio/Portfolio";
 import boostrapIcon from "../../assets/bootstrap-icon.svg";
 import cssIcon from "../../assets/css.png";
 import htmlIcon from "../../assets/html.png";
-import jsIcon from "../../assets/js.png";
+import jsIcon from "../../assets/javascript.png";
 import mysqlIcon from "../../assets/mysql-icon.svg";
 import nodeIcon from "../../assets/nodejs.png";
 import reactIcon from "../../assets/reactjs.png";
