@@ -192,7 +192,7 @@ export function Main(){
                 "height": 20
               },
               {
-                "src": typescriptIcon,
+                "src": tailwindIcon,
                 "width": 20,
                 "height": 20
               },
