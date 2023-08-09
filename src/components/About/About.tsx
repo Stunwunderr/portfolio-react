@@ -2,7 +2,7 @@ import { Container } from "./styles";
 
 import cssIcon from "../../assets/css.png";
 import htmlIcon from "../../assets/html.png";
-import jsIcon from "../../assets/js.png";
+import jsIcon from "../../assets/javascript.png";
 import nodeIcon from "../../assets/nodejs.png";
 import reactIcon from "../../assets/reactjs.png";
 import typescriptIcon from "../../assets/typescript-icon.svg";
