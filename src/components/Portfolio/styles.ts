@@ -9,7 +9,11 @@ export const Container = styled.section`
     font-size: 4rem;
     margin-bottom: 10rem;
   }
-
+  p{
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 4rem;
+  }
   .projects{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
