@@ -11,7 +11,7 @@ export function Footer() {
     <Container className="footer">
       <a href="/" className="logo">
         <span>¢ode</span>
-        <span>wunde®</span>
+        <span>wunder</span>
       </a>
       <div>
         <p>
