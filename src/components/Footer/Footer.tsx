@@ -1,6 +1,6 @@
 import { Container } from './styles'
 
-import reactIcon from '../../assets/react-icon.svg'
+import reactIcon from '../../assets/reactjs.png'
 import linkedinIcon from '../../assets/linkedin.png'
 import githubIcon from '../../assets/github.png'
 import instagramIcon from '../../assets/instagram.png'
