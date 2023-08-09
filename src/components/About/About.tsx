@@ -82,7 +82,7 @@ export function About(){
       </div>
       <div className="about-image">
         <ScrollAnimation animateIn="fadeInRight" delay={0.6 * 1000}>
-          <img src="https://portfolio-joaotulio.vercel.app/img/foto_antiga.jpg" alt="Imagem de perfil" />
+          <img src="/man(1).png" alt="about image" />
         </ScrollAnimation>
       </div>
     </Container>
