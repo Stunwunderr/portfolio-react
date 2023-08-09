@@ -4,7 +4,7 @@ import reactIcon from '../../assets/react-icon.svg'
 import linkedinIcon from '../../assets/linkedin.png'
 import githubIcon from '../../assets/github.png'
 import instagramIcon from '../../assets/instagram.png'
-import discordIcon from '../../assets/discord.png'
+import whatsappIcon from '../../assets/whatsapp.png'
 
 export function Footer() {
   return (
@@ -49,7 +49,7 @@ export function Footer() {
           target="_blank"
           rel="noreferrer"
         >
-          <img src={discordIcon} alt="Discord" />
+          <img src={whatsappIcon} alt="Discord" />
         </a>
       </div>
     </Container>
