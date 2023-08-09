@@ -5,7 +5,7 @@ import { createGlobalStyle } from "styled-components";
 export const GlobalStyle = createGlobalStyle`
 
   :root{
-    --pink: #23ce6b;
+    --pink: #8a237d;
     --black: #212121;
     --green: #23ce6b;
     --blue: #016fb9;
