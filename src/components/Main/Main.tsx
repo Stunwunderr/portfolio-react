@@ -6,16 +6,16 @@ import { Contact } from "../Contact/Contact";
 import { Portfolio } from "../Portfolio/Portfolio";
 
 import boostrapIcon from "../../assets/bootstrap-icon.svg";
-import cssIcon from "../../assets/css-icon.svg";
-import htmlIcon from "../../assets/html-icon.svg";
-import jsIcon from "../../assets/js-icon.svg";
+import cssIcon from "../../assets/css.png";
+import htmlIcon from "../../assets/html.png";
+import jsIcon from "../../assets/js.png";
 import mysqlIcon from "../../assets/mysql-icon.svg";
-import nodeIcon from "../../assets/node-icon.svg";
-import reactIcon from "../../assets/react-icon.svg";
+import nodeIcon from "../../assets/nodejs.png";
+import reactIcon from "../../assets/reactjs.png";
 import sassIcon from "../../assets/sass-icon.svg";
 import typescriptIcon from "../../assets/typescript-icon.svg";
 import vscodeIcon from "../../assets/vscode-icon.svg";
-import vueIcon from "../../assets/vue-icon.svg";
+import vueIcon from "../../assets/vue.png";
 
 
 export function Main(){
