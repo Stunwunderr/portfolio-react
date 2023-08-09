@@ -38,16 +38,16 @@ export function Header() {
             Home
           </NavHashLink>
           <NavHashLink smooth to="#sobre" onClick={closeMenu}>
-            Sobre mim
+            About Me
           </NavHashLink>
           <NavHashLink smooth to="#portfolio" onClick={closeMenu}>
-            Portfólio
+            Portfolio
           </NavHashLink>
           <NavHashLink smooth to="#contato" onClick={closeMenu}>
-            Contato
+            Contact
           </NavHashLink>
           <a href={Curriculo} download className="button">
-            CV
+           Download CV
           </a>
         </nav>
 
