@@ -30,7 +30,7 @@ export const Container = styled.section`
       width: 50%;
       max-width: 40rem;
       gap: 2rem;
-      background-color: var(--green);
+      background-color: #2b2b2b;
       border-radius: 1.4rem;
       padding: 1.6rem 2.8rem;
       transition: background-color 0.25s;
@@ -38,7 +38,7 @@ export const Container = styled.section`
         width: 4rem;
       }
       a{
-        color: var(--black);
+        color: white;
         font-weight: 500;
       }
       &:hover{
