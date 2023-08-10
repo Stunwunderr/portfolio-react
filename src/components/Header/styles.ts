@@ -48,7 +48,7 @@ export const Container = styled.header`
 
   .menu{
     width: 2rem;
-    height: 0.2rem;
+    height: 0.7rem;
     background: #FFFF;
     position: relative;
     cursor: pointer;
