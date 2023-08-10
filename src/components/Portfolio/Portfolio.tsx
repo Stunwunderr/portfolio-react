@@ -155,8 +155,8 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Music Library</h3>
-              <p>Uma interface para uma biblioteca de músicas, semelhante ao Spotify.
+              <h3>Password Generator</h3>
+              <p>
               </p>
             </div>
             <footer>
