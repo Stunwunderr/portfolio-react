@@ -6,6 +6,7 @@ import jsIcon from "../../assets/javascript.png";
 import nodeIcon from "../../assets/nodejs.png";
 import reactIcon from "../../assets/reactjs.png";
 import tailwindIcon from "../../assets/tailwind.png";
+import bootstrapIcon from "../../assets/bootstrap.png";
 import vueIcon from "../../assets/vue.png";
 import ScrollAnimation from "react-animate-on-scroll";
 
