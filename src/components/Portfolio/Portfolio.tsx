@@ -5,9 +5,7 @@ import ScrollAnimation from "react-animate-on-scroll";
 import reactIcon from "../../assets/reactjs.png"
 import cssIcon from "../../assets/css.png"
 import jsIcon from "../../assets/javascript.png"
-
-
-
+import sassIcon from "../../assets/sass.png"
 
 
 export function Portfolio(){
@@ -63,9 +61,9 @@ export function Portfolio(){
             </div>
             <footer>
               <ul className="tech-list">
-                <li>React</li>
-                <li>Typescript</li>
-                <li>Styled Components</li>
+                <li><img src={reactIcon} alt="React Icon" /></li>
+                <li><img src={sassIcon} alt="Sass Icon" /></li>
+                <li><img src={cssIcon} alt="Animejs Icon" /></li>                
               </ul>
             </footer>
           </div>
