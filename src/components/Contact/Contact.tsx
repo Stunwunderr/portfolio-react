@@ -9,7 +9,7 @@ export function Contact(){
   return(
     <Container id="contact">
       <header>
-        <h2>Get In Touch</h2>
+        <h2>Contact Me</h2>
         <p>What's the scoop on my incredible projects? I'm itching to know! And hey, the idea of us working together is like peanut butter and jelly – a perfect match! </p>
         <p>Shoot me a message or drop a line. Let's team up and create some tech magic!</p>
       </header>
