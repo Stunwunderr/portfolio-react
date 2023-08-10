@@ -14,7 +14,7 @@ import ScrollAnimation from "react-animate-on-scroll";
 
 export function About(){
   return(
-    <Container id="sobre">
+    <Container id="about">
       <div className="about-text">
         <ScrollAnimation animateIn="fadeInLeft">
           <h2>Who's behind the screen?
@@ -39,54 +39,54 @@ export function About(){
         </ScrollAnimation>
         <div className="hard-skills">
 
-          <div className="hability">
+          <div className="skills">
             <ScrollAnimation animateIn="fadeInUp" delay={0.1 * 1000}>
               <img src={reactIcon} alt="React" />
             </ScrollAnimation>
           </div>
 
-          <div className="hability">
+          <div className="skills">
           <ScrollAnimation animateIn="fadeInUp" delay={0.2 * 1000}>
             <img src={vueIcon} alt="Vue" />
           </ScrollAnimation>
           </div>
 
-          <div className="hability">
+          <div className="skills">
           <ScrollAnimation animateIn="fadeInUp" delay={0.3 * 1000}> 
             <img src={jsIcon} alt="JavaScript" />
           </ScrollAnimation>
           </div>
 
-          <div className="hability">
+          <div className="skills">
           <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}> 
             <img src={htmlIcon} alt="Html" />
           </ScrollAnimation>
           </div>
 
-          <div className="hability">
+          <div className="skills">
           <ScrollAnimation animateIn="fadeInUp" delay={0.5 * 1000}> 
             <img src={cssIcon} alt="Css" />
           </ScrollAnimation>
           </div>
-          <div className="hability">
+          <div className="skills">
           <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}> 
             <img src={nodeIcon} alt="Node" />
           </ScrollAnimation>
           </div>
 
-          <div className="hability">
+          <div className="skills">
           <ScrollAnimation animateIn="fadeInUp" delay={0.7 * 1000}>
             <img src={tailwindIcon} alt="Tailwind" />
           </ScrollAnimation>
           </div>
           
-          <div className="hability">
+          <div className="skills">
           <ScrollAnimation animateIn="fadeInUp" delay={0.7 * 1000}>
             <img src={bootstrapIcon} alt="Bootstrap" />
           </ScrollAnimation>
           </div>
           
-          <div className="hability">
+          <div className="skills">
           <ScrollAnimation animateIn="fadeInUp" delay={0.7 * 1000}>
             <img src={materializeIcon} alt="Materialize Css" />
           </ScrollAnimation>
