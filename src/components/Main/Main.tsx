@@ -9,7 +9,7 @@ import boostrapIcon from "../../assets/bootstrap.png";
 import cssIcon from "../../assets/css.png";
 import htmlIcon from "../../assets/html.png";
 import jsIcon from "../../assets/javascript.png";
-import mysqlIcon from "../../assets/mysql-icon.svg";
+import materializeIcon from "../../assets/materialize.png";
 import nodeIcon from "../../assets/nodejs.png";
 import reactIcon from "../../assets/reactjs.png";
 import sassIcon from "../../assets/sass.png";
@@ -172,7 +172,7 @@ export function Main(){
                 "height": 20
               },
               {
-                "src": mysqlIcon,
+                "src": materializeIcon,
                 "width": 20,
                 "height": 20
               },
