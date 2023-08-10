@@ -5,16 +5,16 @@ import { About } from "../About/About";
 import { Contact } from "../Contact/Contact";
 import { Portfolio } from "../Portfolio/Portfolio";
 
-import boostrapIcon from "../../assets/bootstrap-icon.svg";
+import boostrapIcon from "../../assets/bootstrap.png";
 import cssIcon from "../../assets/css.png";
 import htmlIcon from "../../assets/html.png";
 import jsIcon from "../../assets/javascript.png";
 import mysqlIcon from "../../assets/mysql-icon.svg";
 import nodeIcon from "../../assets/nodejs.png";
 import reactIcon from "../../assets/reactjs.png";
-import sassIcon from "../../assets/sass-icon.svg";
+import sassIcon from "../../assets/sass.png";
 import tailwindIcon from "../../assets/tailwind.png";
-import vscodeIcon from "../../assets/vscode-icon.svg";
+import vscodeIcon from "../../assets/vscode.png";
 import vueIcon from "../../assets/vue.png";
 
 
