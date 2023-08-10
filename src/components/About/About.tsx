@@ -7,6 +7,7 @@ import nodeIcon from "../../assets/nodejs.png";
 import reactIcon from "../../assets/reactjs.png";
 import tailwindIcon from "../../assets/tailwind.png";
 import bootstrapIcon from "../../assets/bootstrap.png";
+import materializeIcon from "../../assets/materialize.png";
 import vueIcon from "../../assets/vue.png";
 import ScrollAnimation from "react-animate-on-scroll";
 
@@ -76,6 +77,18 @@ export function About(){
           <div className="hability">
           <ScrollAnimation animateIn="fadeInUp" delay={0.7 * 1000}>
             <img src={tailwindIcon} alt="Tailwind" />
+          </ScrollAnimation>
+          </div>
+          
+          <div className="hability">
+          <ScrollAnimation animateIn="fadeInUp" delay={0.7 * 1000}>
+            <img src={bootstapIcon} alt="Bootstrap" />
+          </ScrollAnimation>
+          </div>
+          
+          <div className="hability">
+          <ScrollAnimation animateIn="fadeInUp" delay={0.7 * 1000}>
+            <img src={materializeIcon} alt="Materialize Css" />
           </ScrollAnimation>
           </div>
 
