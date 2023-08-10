@@ -44,6 +44,7 @@ export const Container = styled.section`
 
   .about-image{
     text-align: center;
+    border-radius: 2rem;
    img{
      margin-top: 2rem;
      width: 100%;
