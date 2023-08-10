@@ -2,6 +2,12 @@ import { Container } from "./styles";
 import githubIcon from "../../assets/github.png"
 import externalLinkIcon from "../../assets/link.png"
 import ScrollAnimation from "react-animate-on-scroll";
+import reactIcon from "../../assets/reactjs.png"
+import cssIcon from "../../assets/css.png"
+import jsIcon from "../../assets/javascript.png"
+
+
+
 
 
 export function Portfolio(){
@@ -29,11 +35,9 @@ export function Portfolio(){
           </div>
           <footer>
             <ul className="tech-list">
-              <li><img src={externalLinkIcon} alt="External Link" />
-</li>
-              <li>Express</li>
-              <li>MySql</li>
-              <li>Ejs</li>
+              <li><img src={reactIcon} alt="React Icon" /></li>
+              <li><img src={jsIcon} alt="JavaScript Icon" /></li>
+              <li><img src={cssIcon} alt="CSS Icon" /></li>                
             </ul>
           </footer>
         </div>
