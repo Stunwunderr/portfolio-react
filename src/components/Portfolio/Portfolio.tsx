@@ -2,7 +2,8 @@ import { Container } from "./styles";
 import githubIcon from "../../assets/github.png"
 import externalLinkIcon from "../../assets/link.png"
 import ScrollAnimation from "react-animate-on-scroll";
-import reactIcon from "../../assets/reactjs.png"
+import reactIcon from "../../assets/reactjs.png
+import htmlIcon from "../../assets/html.png
 import cssIcon from "../../assets/css.png"
 import jsIcon from "../../assets/javascript.png"
 import sassIcon from "../../assets/sass.png"
@@ -146,7 +147,7 @@ export function Portfolio(){
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              <a href="https://github.com/codewunder/password-generator" target="_blank" rel="noreferrer">
+              <a href="https://github.com/CodeWunder/Password-generator-app" target="_blank" rel="noreferrer">
                 <img src={githubIcon} alt="Github link" />
               </a>
               <a href="https://codewunder-password-gen.netlify.app/" target="_blank" rel="noreferrer">
@@ -161,15 +162,13 @@ export function Portfolio(){
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Html</li>
-                <li>Css</li>
-                <li>JavaSript</li>
+                <li><img src={htmlIcon} alt="HTML Icon" /></li>
+                <li><img src={cssIcon} alt="CSS Icon" /></li>
+                <li><img src={jsIcon} alt="JavaScript Icon" /></li>                
               </ul>
             </footer>
           </div>
         </ScrollAnimation>
-
-
 
       </div>
     </Container>
