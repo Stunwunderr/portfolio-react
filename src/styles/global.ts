@@ -78,7 +78,7 @@ export const GlobalStyle = createGlobalStyle`
     box-sizing: border-box;
   }
   *:focus{
-  outline: none;
+  outline: none !important;
   }
 
   html{
