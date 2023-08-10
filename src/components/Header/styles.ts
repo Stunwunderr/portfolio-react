@@ -31,11 +31,17 @@ export const Container = styled.header`
       transition: filter 0.25s;
 
       &.button{
-        padding: 1rem;
+        padding: 1rem 2rem;
+        border-radius: 0.8rem;
+        box-shadow: 0rem 0.4rem 0.8rem rgba(0, 0, 0, 0.2);
+        text-shadow: 0.1rem 0.1rem 0.1rem rgba(0, 0, 0, 0.2);
+        transition: transform 0.2s, box-shadow 0.2s;
       }
 
       &:hover{
-        filter: brightness(0.6);
+        filter: brightness(0.6);        
+        transform: translateY(-0.2rem);
+        box-shadow: 0rem 0.6rem 1.2rem rgba(0, 0, 0, 0.2);
       }
     }
 
