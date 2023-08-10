@@ -158,6 +158,7 @@ export function Portfolio(){
             <div className="body">
               <h3>Password Generator</h3>
               <p>
+                This powerful app creates custom, secure passwords to protect your online accounts. With adjustable settings, it generates strong, unique passwords of any length. Upgrade your online security today!
               </p>
             </div>
             <footer>
