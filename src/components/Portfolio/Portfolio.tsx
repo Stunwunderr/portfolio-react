@@ -29,7 +29,8 @@ export function Portfolio(){
           </div>
           <footer>
             <ul className="tech-list">
-              <li>Node</li>
+              <li><img src={externalLinkIcon} alt="External Link" />
+</li>
               <li>Express</li>
               <li>MySql</li>
               <li>Ejs</li>
