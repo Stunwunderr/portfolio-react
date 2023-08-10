@@ -9,8 +9,8 @@ import tailwindIcon from "../../assets/tailwind.png";
 import bootstrapIcon from "../../assets/bootstrap.png";
 import materializeIcon from "../../assets/materialize.png";
 import vueIcon from "../../assets/vue.png";
+import manImage from "../../assets/man.png";
 import ScrollAnimation from "react-animate-on-scroll";
-
 
 export function About(){
   return(
@@ -97,7 +97,7 @@ export function About(){
       </div>
       <div className="about-image">
         <ScrollAnimation animateIn="fadeInRight" delay={0.6 * 1000}>
-          <img src="../../assets/man.png" alt="about" />
+          <img src={manImage} alt="Myself" />
         </ScrollAnimation>
       </div>
     </Container>
