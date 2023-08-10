@@ -82,7 +82,7 @@ export function About(){
           
           <div className="hability">
           <ScrollAnimation animateIn="fadeInUp" delay={0.7 * 1000}>
-            <img src={bootstapIcon} alt="Bootstrap" />
+            <img src={bootstrapIcon} alt="Bootstrap" />
           </ScrollAnimation>
           </div>
           
