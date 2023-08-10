@@ -56,8 +56,7 @@ export function Portfolio(){
             </header>
             <div className="body">
               <h3>Planets Fact Site</h3>
-              <p>Uma versão mais agradável para ver seu perfil do GitHub, inclui visualização de dados , repositórios, compartilhamento entre outros.
-              </p>
+              <p>An interactive website showcasing fascinating facts about each planet in our solar system. Learn about size, distance, composition, and more.</p>
             </div>
             <footer>
               <ul className="tech-list">
