@@ -147,6 +147,41 @@ export const Container = styled.header`
     transform: translateX(-100%);
   }
 
+  @media (max-width: 1260px){
+    padding: 1.8rem 3rem;
+
+    .menu{
+      display: block;
+    }
+
+    nav {
+      -ms-overflow-style: none;
+      scrollbar-width: none;
+      overflow: hidden;
+      opacity: 0;
+      visibility: hidden;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      position: fixed;
+      width: 100vw;
+      height: 100vh;
+      background: var(--blue);
+      top: 0;
+      left: 0;
+      transition: opacity 0.25s;
+      background-color: black;
+
+      a.button{
+        background-color: var(--green);
+      }
+
+      &.active{
+        opacity: 1;
+        visibility: visible;
+      }
+    }
+  }
   
 `
 
