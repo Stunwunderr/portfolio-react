@@ -9,7 +9,7 @@ import tailwindIcon from "../../assets/tailwind.png";
 import bootstrapIcon from "../../assets/bootstrap.png";
 import materializeIcon from "../../assets/materialize.png";
 import vueIcon from "../../assets/vue.png";
-import manImage from "../../assets/man.png";
+import manImage from "../../assets/codewunder.jpg";
 import ScrollAnimation from "react-animate-on-scroll";
 
 export function About(){
