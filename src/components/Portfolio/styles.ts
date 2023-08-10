@@ -78,6 +78,9 @@ export const Container = styled.section`
           font-size: 1.4rem;
           opacity: 0.6;
         }
+        li > img {
+          width: 2.6rem;
+        }
       }
 
     }
