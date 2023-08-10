@@ -13,7 +13,7 @@ export const Container = styled.section`
     flex-wrap: wrap;
     gap: 1.8rem;
   }
-  .hability{
+  .skills{
     display: flex;
     flex-direction: column;
     align-items: center;
