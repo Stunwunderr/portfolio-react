@@ -43,12 +43,12 @@ export const Container = styled.header`
 
   .menu-container{
     cursor: pointer;
-    padding: 0.6rem 0;
+    padding: 0.6rem 0.3;
   }
 
   .menu{
     width: 2rem;
-    height: 0.7rem;
+    height: 0.2rem;
     background: #FFFF;
     position: relative;
     cursor: pointer;
