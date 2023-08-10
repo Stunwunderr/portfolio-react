@@ -43,11 +43,11 @@ export const Container = styled.section`
   
 
   .about-image{
-    text-align: center;
-    border-radius: 2rem;
+    text-align: center;    
    img{
      margin-top: 2rem;
      width: 100%;
+     border-radius: 2rem;
      filter: grayscale(1);
      transition: filter 0.5s;
      &:hover{
