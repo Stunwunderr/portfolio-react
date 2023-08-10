@@ -170,7 +170,7 @@ export const Container = styled.header`
       top: 0;
       left: 0;
       transition: opacity 0.25s;
-      background-color: #f5f5f5;
+      background-color: #2b2b2b;
 
       a.button{
         background-color: var(--green);
