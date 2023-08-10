@@ -22,7 +22,11 @@ export const GlobalStyle = createGlobalStyle`
       .logo{
         color: var(--black);
       }
-
+      
+      nav{      
+      background-color: white;
+      }
+      
       header.header-fixed{
         transition: 0.5s;
         background-color: #f5f5f550;
