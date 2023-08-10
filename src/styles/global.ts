@@ -28,7 +28,7 @@ export const GlobalStyle = createGlobalStyle`
         background-color: #f5f5f550;
         a{
           transition: 0.5s;
-          color: black;
+          color: white;
         }
         .menu,.menu:before, .menu:after{
           background-color: var(--black); 
