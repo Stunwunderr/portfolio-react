@@ -2,11 +2,11 @@ import { Container } from "./styles";
 import githubIcon from "../../assets/github.png"
 import externalLinkIcon from "../../assets/link.png"
 import ScrollAnimation from "react-animate-on-scroll";
-import reactIcon from "../../assets/reactjs.png
-import htmlIcon from "../../assets/html.png
-import cssIcon from "../../assets/css.png"
-import jsIcon from "../../assets/javascript.png"
-import sassIcon from "../../assets/sass.png"
+import reactIcon from "../../assets/reactjs.png";
+import htmlIcon from "../../assets/html.png";
+import cssIcon from "../../assets/css.png";
+import jsIcon from "../../assets/javascript.png";
+import sassIcon from "../../assets/sass.png";
 
 
 export function Portfolio(){
