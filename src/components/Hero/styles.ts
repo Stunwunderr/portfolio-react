@@ -29,7 +29,10 @@ export const Container = styled.section`
 
   .button{
     margin-top: 5rem;
-    padding: 1.4rem 6rem;
+    padding: 1.4rem 6rem;   
+    box-shadow: 0rem 0.4rem 0.8rem rgba(0, 0, 0, 0.2);
+    text-shadow: 0.1rem 0.1rem 0.1rem rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s, box-shadow 0.2s; 
   }
 
   .hero-image{
